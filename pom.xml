@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring.version>4.3.2.RELEASE</spring.version>
-        <spring-data-jpa.version>1.10.4.RELEASE</spring-data-jpa.version>
+        <spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
         <hibernate.version>5.2.2.Final</hibernate.version>
         <hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
