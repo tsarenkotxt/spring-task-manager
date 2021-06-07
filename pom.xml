@@ -27,7 +27,7 @@
         <apache-dbcp2.version>2.1.1</apache-dbcp2.version>
         <javax-inject.version>1</javax-inject.version>
         <javax-mail.version>1.4.7</javax-mail.version>
-        <logback.version>1.1.7</logback.version>
+        <logback.version>1.2.0</logback.version>
         <slf4j.version>1.7.21</slf4j.version>
         <junit.version>4.12</junit.version>
     </properties>
